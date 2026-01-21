@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Marutani
+    given-names: Yuji
+    orcid: "https://orcid.org/0009-0000-9692-9399"
+title: "AGI Orchestration OS: A Layer -1 Synchronization Framework for Human–AI Improvisation"
+version: 0.2.0
+date-released: 2026-01-22
+type: software
+abstract: >
+  A conceptual framework and Working Paper for studying synchronization, 
+  improvisation, and high-bandwidth interaction between humans and 
+  artificial intelligence systems via a Layer -1 bio-computational model.
+keywords:
+  - human-ai interaction
+  - somatic computing
+  - synchronization
+  - improvisation
+  - agi orchestration
+license: CC-BY-4.0
+repository-code: "https://github.com/your-username/agi-orchestration-os"
+identifiers:
+  - type: doi
+    value: "[DOI_HERE]"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Marutani
+      given-names: Yuji
+  title: "Somatic Latency: A Layer -1 Protocol for Human–AGI Synchronization (Working Paper)"
+  year: 2026
+  journal: "Zenodo"
+  doi: "https://doi.org/10.5281/zenodo.18331250"
