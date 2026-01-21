@@ -1,7 +1,7 @@
 # AGI Orchestration OS
 ### A Layer -1 Synchronization Framework for Human–AI Improvisation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18331250.svg)](https://doi.org/10.5281/zenodo.18331250)
 ![Status](https://img.shields.io/badge/Status-Experimental-orange)
 ![License](https://img.shields.io/badge/License-CC_BY_4.0-blue)
 ![Category](https://img.shields.io/badge/Category-HCI%20%2F%20Bio--Computing-green)
@@ -25,7 +25,7 @@ In the era of AGI (Artificial General Intelligence), the limiting factor for hum
 
 ### 📄 Position Paper
 For the theoretical foundation of this framework, please refer to the included Position Paper:
-👉 **[Somatic Latency: A Layer -1 Protocol for Human–AGI Synchronization (PDF)](./docs/Somatic_Latency_Position_Paper_v0.1.pdf)**
+👉 **[Somatic Latency: A Layer -1 Protocol for Human–AGI Synchronization (PDF)](https://doi.org/10.5281/zenodo.18331250)**
 
 ---
 
@@ -111,7 +111,7 @@ Please use the [Issues](https://github.com/your-username/agi-orchestration-os/is
 
 If you use this framework in your research or creative work, please cite it using the metadata in `CITATION.cff` or as follows:
 
-> Marutani, Y. (2026). AGI Orchestration OS: A Layer -1 Synchronization Framework for Human–AI Improvisation (v0.2.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Marutani, Y. (2026). AGI Orchestration OS: A Layer -1 Synchronization Framework for Human–AI Improvisation (v0.2.0). Zenodo. https://doi.org/10.5281/zenodo.18331250
 
 ---
 
