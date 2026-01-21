@@ -25,7 +25,8 @@ In the era of AGI (Artificial General Intelligence), the limiting factor for hum
 
 ### 📄 Position Paper
 For the theoretical foundation of this framework, please refer to the included Position Paper:
-👉 **[Somatic Latency: A Layer -1 Protocol for Human–AGI Synchronization (PDF)](https://doi.org/10.5281/zenodo.18331250)**
+👉 **[Somatic Latency: A Layer -1 Protocol for Human–AGI Synchronization (PDF)](./docs/Somatic_Latency_Position_Paper_v1.0.pdf)**
+
 
 ---
 
