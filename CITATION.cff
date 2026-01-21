@@ -19,10 +19,10 @@ keywords:
   - improvisation
   - agi orchestration
 license: CC-BY-4.0
-repository-code: "https://github.com/your-username/agi-orchestration-os"
+repository-code: "https://github.com/YujiMarutani/agi-orchestration-os"
 identifiers:
   - type: doi
-    value: "[DOI_HERE]"
+    value: "10.5281/zenodo.18331250"
 
 preferred-citation:
   type: article
@@ -32,4 +32,4 @@ preferred-citation:
   title: "Somatic Latency: A Layer -1 Protocol for Human–AGI Synchronization (Working Paper)"
   year: 2026
   journal: "Zenodo"
-  doi: "https://doi.org/10.5281/zenodo.18331250"
+  doi: "10.5281/zenodo.18331250"
