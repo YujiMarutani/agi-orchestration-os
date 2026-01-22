@@ -57,3 +57,10 @@ graph TD
 
     style S fill:#f9f,stroke:#333,stroke-width:2px
     style AGI fill:#000,stroke:#fff,color:#fff
+```mermaid
+
+### Conceptual Visualization
+
+![Bio-Computational Matrix](https://raw.githubusercontent.com/YujiMarutani/agi-orchestration-os/main/assets/bio_computational_matrix.png)
+
+<p align="center"><i>Fig 1. The Somatic Synchronization Matrix & Tensegrity Network</i></p>
