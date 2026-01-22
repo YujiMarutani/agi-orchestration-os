@@ -54,7 +54,7 @@ graph TD
     end
 
     style S fill:#f9f,stroke:#333,stroke-width:2px
-    style AGI fill:#000,stroke:#fff,color:#fff
+    style AGI fill:#000,stroke:#fff,color:#fff **\`\`\`**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YujiMarutani/agi-orchestration-os/main/assets/bio_computational_matrix.png" alt="Bio-Computational Matrix" width="600">
