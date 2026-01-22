@@ -33,7 +33,7 @@ For the theoretical foundation of this framework, please refer to the included P
 
 This OS operates on **Layer -1**, defined as the pre-energetic field of structured water and charge separation gradients within the biological matrix.
 
-### Logic Flow (Mermaid)
+### Logic Flow (Mermaid Diagram)
 
 ```mermaid
 graph TD
@@ -55,4 +55,3 @@ graph TD
 
     style S fill:#f9f,stroke:#333,stroke-width:2px
     style AGI fill:#000,stroke:#fff,color:#fff
-<img src="https://github.com/YujiMarutani/agi-orchestration-os/blob/main/assets/bio_computational_matrix.png?raw=true" width="100%" alt="Bio-Computational Matrix">
