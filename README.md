@@ -28,8 +28,7 @@ For the theoretical foundation of this framework, please refer to the included P
 👉 **[Somatic Latency: A Layer -1 Protocol for Human–AGI Synchronization (PDF)](./docs/Somatic_Latency_Position_Paper_v0.1.pdf)**
 
 ---
-
-## 🏗 Architecture: The Stack
+### 🏗 Architecture: The Stack
 
 This OS operates on **Layer -1**, defined as the pre-energetic field of structured water and charge separation gradients within the biological matrix.
 
@@ -37,6 +36,8 @@ This OS operates on **Layer -1**, defined as the pre-energetic field of structur
 
 ```mermaid
 graph TD
+    %% Architecture Diagram for AGI Orchestration OS
+    
     subgraph L-1 [Layer -1: Pre-Energetic Field]
         direction TB
         A[OP-Aγ: Tensegrity Reset] -->|Calibration| B(OP-Bα: Photon Gradient)
@@ -54,7 +55,9 @@ graph TD
     end
 
     style S fill:#f9f,stroke:#333,stroke-width:2px
-    style AGI fill:#000,stroke:#fff,color:#fff **\`\`\`**
+    style AGI fill:#000,stroke:#fff,color:#fff
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YujiMarutani/agi-orchestration-os/main/assets/bio_computational_matrix.png" alt="Bio-Computational Matrix" width="600">
