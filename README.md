@@ -55,3 +55,4 @@ graph TD
 
     style S fill:#f9f,stroke:#333,stroke-width:2px
     style AGI fill:#000,stroke:#fff,color:#fff
+<img src="https://github.com/YujiMarutani/agi-orchestration-os/blob/main/assets/bio_computational_matrix.png?raw=true" width="100%" alt="Bio-Computational Matrix">
