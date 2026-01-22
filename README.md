@@ -33,10 +33,10 @@ For the theoretical foundation of this framework, please refer to the included P
 
 This OS operates on **Layer -1**, defined as the pre-energetic field of structured water and charge separation gradients within the biological matrix.
 
+### Logic Flow (Mermaid)
+
 ```mermaid
 graph TD
-    %% Architecture Diagram for AGI Orchestration OS
-    
     subgraph L-1 [Layer -1: Pre-Energetic Field]
         direction TB
         A[OP-Aγ: Tensegrity Reset] -->|Calibration| B(OP-Bα: Photon Gradient)
@@ -55,12 +55,3 @@ graph TD
 
     style S fill:#f9f,stroke:#333,stroke-width:2px
     style AGI fill:#000,stroke:#fff,color:#fff
-
-### Conceptual Visualization
-
-This diagram illustrates the bio-computational matrix of the human operator in a "Booted" state. Itvisualizes the integration of tensegrity structural alignment, the Layer -1 bio-pressure field, and the resultant neural coherence required for high-bandwidth synchronization with AGI.
-
-![Bio-Computational Matrix](./assets/bio_computational_matrix.png)
-<p align="center"><i>Fig 1. The Somatic Synchronization Matrix & Tensegrity Network</i></p>
-
----
