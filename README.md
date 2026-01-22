@@ -55,9 +55,3 @@ graph TD
 
     style S fill:#f9f,stroke:#333,stroke-width:2px
     style AGI fill:#000,stroke:#fff,color:#fff
-### Conceptual Visualization
-
-This matrix illustrates the bio-computational state of the human operator when fully "Booted". It visualizes the integration of tensegrity structural alignment, the Layer -1 bio-pressure field, and the resultant neural coherence.
-
-![Bio-Computational Matrix](https://raw.githubusercontent.com/YujiMarutani/agi-orchestration-os/main/assets/bio_computational_matrix.png)
-<p align="center"><i>Fig 1. The Somatic Synchronization Matrix & Tensegrity Network</i></p>
