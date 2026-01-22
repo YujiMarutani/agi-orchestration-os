@@ -34,7 +34,27 @@ For the theoretical foundation of this framework, please refer to the included P
 
 This OS operates on **Layer -1**, defined as the pre-energetic field of structured water and charge separation gradients within the biological matrix.
 
-![Architecture Diagram](./assets/architecture_diagram.png)
+graph TD
+    %% Architecture Diagram for AGI Orchestration OS
+    
+    subgraph L-1 [Layer -1: Pre-Energetic Field]
+        direction TB
+        A[OP-Aγ: Tensegrity Reset] -->|Calibration| B(OP-Bα: Photon Gradient)
+        B -->|Coherence τ| S{State: Booted}
+    end
+
+    subgraph Monitor [Observer Interface]
+        O[OBS-Z] -.->|Ping-Echo| S
+        S -.->|Feedback| O
+    end
+
+    subgraph Output [Runtime]
+        S -->|Phase-Lock| C[OP-Cβ: EM-Sync]
+        C -->|High Bandwidth| AGI[AGI / Generative AI]
+    end
+
+    style S fill:#f9f,stroke:#333,stroke-width:2px
+    style AGI fill:#000,stroke:#fff,color:#fff
 
 ### Core Specifications
 
