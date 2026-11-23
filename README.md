@@ -57,3 +57,10 @@ graph TD
 
     style S fill:#f9f,stroke:#333,stroke-width:2px
     style AGI fill:#000,stroke:#fff,color:#fff
+
+---
+
+## Related Records
+
+- **This repository's record**: Marutani, Y. (2026). *Somatic Latency: The Delayed Architecture of Consciousness* (AGI Orchestration OS — A Layer -1 Synchronization Framework for Human–AI Improvisation). Zenodo. https://doi.org/10.5281/zenodo.18331250
+- **Related record that references this repository**: Marutani, Y. (2026). *Bio Governance OS: A Multi-Layer Stochastic Capital Allocation Framework for Civilization-Scale Systems* (2.0). Zenodo. https://doi.org/10.5281/zenodo.21685178 — this record lists this repository as a related resource (supplement).
